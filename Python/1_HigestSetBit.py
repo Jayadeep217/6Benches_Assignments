@@ -14,5 +14,5 @@ def highestSetBit(num):
     else :
         print("0 has no set bits.")
 
-num = int(input("Enter a number"))
+num = int(input("Enter a number \n"))
 highestSetBit(num)
